@@ -1,0 +1,10 @@
+<div class="header header__main">
+   <div class="container">
+      <img src="http://unsplash.it/1137/300/" alt="">
+      <div class="header__body">
+         <div class="box">
+            <h1 class="header__title">Título Indice General</h1>
+         </div>
+      </div>
+   </div>
+</div>

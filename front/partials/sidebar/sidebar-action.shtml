@@ -1,0 +1,7 @@
+<div class="sidebar bg bg-light">
+   <h3 class="sidebar__title">Admisión</h3>
+   <div class="sidebar__excerpt">
+      <p>Puedes escribirnos a <a href="">admisión@americanbritish.cl</a> o postular directamente en nuestro formulario en línea</p>
+   </div>
+   <a href="template-page-postulacion.html" class="button button--main inversed button--more">Postular aqui</a>
+</div>

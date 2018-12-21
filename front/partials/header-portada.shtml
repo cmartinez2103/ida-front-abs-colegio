@@ -1,0 +1,15 @@
+<div class="header header__portada">
+   <div class="container">
+      <img src="http://unsplash.it/780/515/" alt="" class="header__image">
+      <div class="header__body">
+         <div class="box">
+            <h1 class="header__title">Título Portada</h1>
+         </div>
+         <span class="header__meta">Primer y Segundo Básico</span>
+         <div class="header__excerpt">
+            <p>Consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
+               Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+         </div>
+      </div>
+   </div>
+</div>
